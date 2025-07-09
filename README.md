@@ -1,0 +1,2 @@
+This e-Canteen system is a web-based prototype developed using HTML, CSS, JavaScript, PHP, and MySQL. It allows students to view the menu, place orders, and make payments, while admins can manage food items and monitor transactions. A sandbox version of the Paytm payment gateway is integrated to simulate secure transactions in a test environment.
+👉 Watch the demo video - https://youtu.be/F5oJlUTK7Fk?si=jYwi_w8jVSvBSwIG
