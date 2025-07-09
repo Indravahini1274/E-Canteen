@@ -1,8 +1,8 @@
 <?php
 try{
-    define("HOST", "localhost");
-    define("DBNAME","e-canteen");
-    define("USER","root");
+    define("HOST", "");
+    define("DBNAME","");
+    define("USER","");
     define("PASS","");
     $conn = new PDO("mysql:host=".HOST.";dbname=".DBNAME, USER, PASS);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
